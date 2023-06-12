@@ -33,3 +33,5 @@ function recursiveArrayReversal(arr, arr2 = []) {
 ```
 
 ![CodeChallenge1 running](./assets/runningCode.PNG)
+
+### To run tests on code, navigate to the directory of the challenge and in your terminal type `npm test`

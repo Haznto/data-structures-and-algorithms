@@ -20,4 +20,10 @@ To run your tests
 
 ### 401 Data Structures, Code Challenges
 
-- Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+- Table of content
+
+| Assignments        | Links           |
+|    ---             |      ---        |
+|1- Code challenge 1 reverseArray   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-1-array-reverse/README.md)     |
+
+___

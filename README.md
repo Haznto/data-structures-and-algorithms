@@ -26,5 +26,6 @@ To run your tests
 |    ---             |      ---        |
 |1- Code challenge 1 reverseArray   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-1-array-reverse/README.md)     |
 |2- Code-challenge 2 arrayInsertShift   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-2-array-insert-shift/README.md)     |
+|3- Code-challenge 3 LinkedList   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-3-linked-list/README.md)     |
 
 ___

@@ -1,4 +1,4 @@
-# array-reverse
+# Array-Reverse
 
 the challenge is to write a function that will accept an array and return the reverse of it.
 

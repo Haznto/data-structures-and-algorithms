@@ -1,4 +1,4 @@
-# Array-Binary-Search
+# Mock - Interview
 
  To create a function that a 2d or nested array, and return an array that has the sum of each nested array elements as index from that array.
 

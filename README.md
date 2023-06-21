@@ -28,5 +28,6 @@ To run your tests
 |2- Code-challenge 2 ArrayInsertShift   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-2-array-insert-shift/README.md)     |
 |3- Code-challenge 3 LinkedList   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-3-linked-list/README.md)     |
 |4- Code-challenge 4 Array Binary Search   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-4-array-binary-search/README.md)     |
+|5- Code-challenge 5 Mock interviews   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-5-mock-interviews/README.md)     |
 
 ___

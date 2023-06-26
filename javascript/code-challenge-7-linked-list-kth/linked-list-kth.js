@@ -1,24 +1,10 @@
-# Linked Lists Insertions
-
-Creating a linked list with 3 methods as follows:
-
-- append, to add a node at the end of the linked list.
-
-- inserAfter, to add a node with a value after a certain node with known value.
-
-- insertBefore, to add a node with a value before a certain node with a known value.
-
-Input: a value into a function.
-
-Output: adding that value to a position in that linked list based on the method used.
-
-## Whiteboard Process
-
-![Linked list white board](./assets/Linked-List-Insertion%20(1).jpg)
-
-## Solution
-
-``` javascript
+/* eslint-disable no-dupe-class-members */
+/* eslint-disable no-empty */
+/* eslint-disable indent */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable no-unused-vars */
+/* eslint-disable semi */
+/* eslint-disable eol-last */
 'use strict'
 
 class Node {
@@ -33,7 +19,10 @@ class Linkedlist {
         this.head = null;
         this.size = 0;
     }
-    
+    insert(value) {
+        this.head = new Node(value,this.head);
+        this.size ++;
+    }
 
     append(newValue){
         if (this.head === null) {
@@ -97,6 +86,56 @@ class Linkedlist {
             this.size++
         }
     }
+    toString(){
+        let start = this.head;
+        if (!this.head){
+          return 'empty linked list';
+        } else{
+          let stringOfValues = '';
+          while(start.value){
+            stringOfValues += `{${start.value}} -> `;
+            if(start.next === null) return stringOfValues += 'NULL';
+            start = start.next;
+          }
+        }
+      }
+
+      kthFromEnd(k){
+        if(k < 0) return 'Enter a positive number'
+        let kth = this.size - k;
+        if(kth < 0) return `The input exceeds the length of the linkedList length is: ${this.size}`
+        let currentNode = this.head
+        for(let i = 0; i < kth-1; i++) {
+            currentNode = currentNode.next
+        }
+        // console.log(currentNode.value)
+        return currentNode.value
+      }
 }
 
-```
+
+let ll = new Linkedlist();
+ll.insert(25)
+ll.insert(26)
+ll.insert(27)
+ll.insert(28)
+ll.insert(30)
+ll.insert(31)
+ll.insert(32)
+ll.insert(33)
+ll.insert(34)
+ll.insert(35)
+// ll.append(25)
+// ll.append(27)
+// ll.insertAfter(21,22)
+// ll.insertAfter(22,23)
+// ll.insertBefore(22,23)
+// ll.insertBefore(22,24)
+// ll.insertAfter(21,24)
+// ll.insertAfter(22,25)
+console.log(ll);
+console.log(ll.toString());
+console.log(ll.kthFromEnd(-5))
+console.log(ll.head)
+
+module.exports = Linkedlist

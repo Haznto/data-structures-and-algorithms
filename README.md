@@ -31,5 +31,6 @@ To run your tests
 |5- Code-challenge 5 Mock interviews   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-5-mock-interviews/README.md)     |
 |6- Linked-list-insertions   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-6-linked-list-insertions/README.md)     |
 |7- Linked-list-kth   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-7-linked-list-kth/README.md)     |
+|8- Linked-list-zip   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-8-linked-list-zip/README.md)     |
 
 ___

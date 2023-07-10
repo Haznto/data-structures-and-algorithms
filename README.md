@@ -15,5 +15,6 @@
 |7- Code-challenge 7 Linked-list-kth   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-7-linked-list-kth/README.md)     |
 |8- Code-challenge 8 Linked-list-zip   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-8-linked-list-zip/README.md)     |
 |9- Code-challenge 10 Stack-and-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-10-stack-and-queue/README.md)     |
+|10- Code-challenge 11 Pseudo-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-11-stack-queue-pseudo/README.md)     |
 
 ___

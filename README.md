@@ -16,5 +16,6 @@
 |8- Code-challenge 8 Linked-list-zip   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-8-linked-list-zip/README.md)     |
 |9- Code-challenge 10 Stack-and-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-10-stack-and-queue/README.md)     |
 |10- Code-challenge 11 Pseudo-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-11-stack-queue-pseudo/README.md)     |
+|11- Code-challenge 12 Stack-Queue-Animal-Shelter   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-12-stack-queue-animal-shelter/README.md)     |
 
 ___

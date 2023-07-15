@@ -17,5 +17,6 @@
 |9- Code-challenge 10 Stack-and-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-10-stack-and-queue/README.md)     |
 |10- Code-challenge 11 Pseudo-Queue   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-11-stack-queue-pseudo/README.md)     |
 |11- Code-challenge 12 Stack-Queue-Animal-Shelter   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-12-stack-queue-animal-shelter/README.md)     |
+|12- Code-challenge 13 Stack-Queue-Brackets   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-13-stack-queue-brackets/README.md)     |
 
 ___

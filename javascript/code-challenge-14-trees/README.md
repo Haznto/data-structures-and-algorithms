@@ -8,7 +8,7 @@ add method to add new value in a correct position to the tree and contains is to
 
 ## Whiteboard Process
 
-![Linked list white board](./assets/trees.jpg)
+![Linked list white board](./assets/trees%20(1).jpg)
 
 ## Solution
 

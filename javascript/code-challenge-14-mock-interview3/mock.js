@@ -1,16 +1,10 @@
-# Mock interview 3 Duck Duck Goose
-
-*Create a function inside a queue, that will simulate a Duck Duck Goose game that accepts an array of strings and an int k. Start at the beginning and count up to k and remove the person at that position. Keep counting from that index and count up to k over and over until only one person is left. Return a string with the name of the last person left.*
-
-## Whiteboard Process
-
-![Linked list white board](./assets/mock3duck.jpg)
-
-## Solution
-
-``` javascript
-'use strict'
-
+/* eslint-disable no-dupe-class-members */
+/* eslint-disable no-empty */
+/* eslint-disable indent */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable no-unused-vars */
+/* eslint-disable semi */
+/* eslint-disable eol-last */
 class Node {
     constructor(value){
          this.value = value
@@ -63,9 +57,17 @@ class Queue{
   }
 }
 
+// testing lines 
 
-```
+let newQ = new Queue()
 
-## For Tests
+// newQ.enQueue(10)
+// newQ.enQueue(20)
+// newQ.enQueue(30)
+// newQ.enQueue(40)
+// newQ.enQueue(50)
+// newQ.enQueue(60)
 
-Navigate to the tree directory and run `node mock.js` after changing the test case line with an array of your choose.
+// console.log(newQ.front);
+
+console.log(newQ.duck([1,2,3,4,5,6,7,8,9,10],3))

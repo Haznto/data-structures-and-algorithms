@@ -22,5 +22,6 @@
 |14- Code-challenge 15 Trees   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-15-trees/README.md)     |
 |15- Code-challenge 16 Tree-Max   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-16-tree-max/README.md)     |
 |16- Code-challenge 17 Tree-Breadth-First   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-17-tree-breadth-first/README.md)     |
+|17- Code-challenge 18 K-ry Tree-Fizz-Buzz   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-18-tree-fizz-buzz/README.md)     |
 
 ___

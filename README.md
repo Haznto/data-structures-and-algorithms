@@ -25,5 +25,6 @@
 |17- Code-challenge 18 K-ry Tree-Fizz-Buzz   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-18-tree-fizz-buzz/README.md)     |
 |18- Code-challenge 19 mock-interview-4   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-19-mock-interview-4/README.md)     |
 |19- Code-challenge 26 Insertion-Sort   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-26-Insertion-Sort/README.md)     |
+|20- Code-challenge 27 merge-sort   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-27-merge-sort/README.md)     |
 
 ___

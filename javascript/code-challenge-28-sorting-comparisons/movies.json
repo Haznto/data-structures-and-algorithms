@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Meg 2: The Trench",
+        "release_date": "2023-08-02",
+        "genres": [
+            "action",
+            "adventure"
+        ]
+    },
+    {
+        "title": "Elemental",
+        "release_date": "2023-06-14",
+        "genres": [
+            "horror",
+            "mystery",
+            "drama",
+            "thriller"
+        ]
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "release_date": "2023-05-31",
+        "genres": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy"
+        ]
+    },
+    {
+        "title": "Ahsoka",
+        "release_date": "2023-08-22",
+        "genres": [
+            "action",
+            "adventure",
+            "science"
+        ]
+    },
+    {
+        "title": "Oppenheimer",
+        "release_date": "2023-07-19",
+        "genres": [
+            "history",
+            "thriller",
+            "drama"
+        ]
+    }
+]

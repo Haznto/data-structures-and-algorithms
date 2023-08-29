@@ -27,5 +27,6 @@
 |19- Code-challenge 26 Insertion-Sort   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-26-Insertion-Sort/README.md)     |
 |20- Code-challenge 27 merge-sort   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-27-merge-sort/README.md)     |
 |21- Code-challenge 28 comparative-sort   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-28-sorting-comparisons/README.md)     |
+|22- Code-challenge 29 mock-interview-5   |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-29-mock-interview-5/README.md)     |
 
 ___

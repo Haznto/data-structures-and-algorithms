@@ -33,7 +33,7 @@ class Hash {
 
     get(key) {
         let hashedKey = this.hash(key)
-        if (!this.map[hashedKey]) return `key not found in the hashtable`
+        if (!this.map[hashedKey]) return null
 
         let found = this.map[hashedKey].find(key)
 

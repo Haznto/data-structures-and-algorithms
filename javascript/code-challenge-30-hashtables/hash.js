@@ -63,25 +63,25 @@ class Hash {
 }
 
 
-let HahsedTable = new Hash(19)
+// let HahsedTable = new Hash(19)
 
-HahsedTable.set('Hasan', 'Mugen')
-HahsedTable.set('test1', 'val1')
-HahsedTable.set('test2', 'val2')
-HahsedTable.set('test3', 'val3')
-HahsedTable.set('test4', 'val4')
-HahsedTable.set('test5', 'val5')
-HahsedTable.set('test6', 'val6')
+// HahsedTable.set('Hasan', 'Mugen')
+// HahsedTable.set('test1', 'val1')
+// HahsedTable.set('test2', 'val2')
+// HahsedTable.set('test3', 'val3')
+// HahsedTable.set('test4', 'val4')
+// HahsedTable.set('test5', 'val5')
+// HahsedTable.set('test6', 'val6')
 
-console.log(HahsedTable.map)
-console.log(HahsedTable)
-console.log(HahsedTable.get('Hasan'))
-console.log(HahsedTable.get('test5'))
-console.log(HahsedTable.get('notFound'))
-console.log(HahsedTable.has('Hasan'))
-console.log(HahsedTable.has('test5'))
-console.log(HahsedTable.has('notFound'))
-console.log(HahsedTable.keys())
+// console.log(HahsedTable.map)
+// console.log(HahsedTable)
+// console.log(HahsedTable.get('Hasan'))
+// console.log(HahsedTable.get('test5'))
+// console.log(HahsedTable.get('notFound'))
+// console.log(HahsedTable.has('Hasan'))
+// console.log(HahsedTable.has('test5'))
+// console.log(HahsedTable.has('notFound'))
+// console.log(HahsedTable.keys())
 
 
 

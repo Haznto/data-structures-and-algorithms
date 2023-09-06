@@ -11,7 +11,7 @@ Output (Array of values)*
 
 ## Whiteboard Process
 
-![Linked list white board](./assets/Tree-Intersections.PNG)
+![Linked list white board](./assets/Trees-intersections.PNG)
 
 ## Solution
 

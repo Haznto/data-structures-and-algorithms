@@ -1,4 +1,4 @@
-# HashTables-Tree-Insertions
+# HashTables-tree-intersections
 
 Note: Worked with laith on this challange
 
@@ -11,7 +11,7 @@ Output (Array of values)*
 
 ## Whiteboard Process
 
-![Linked list white board](./assets/Tree-Insertions.PNG)
+![Linked list white board](./assets/Tree-Intersections.PNG)
 
 ## Solution
 
@@ -47,4 +47,4 @@ function compareZayton(hashKeys) {
 
 ## For Tests
 
-Navigate to the tree directory and run `npm test -- Tree-insertion.test.js` .
+Navigate to the tree directory and run `npm test -- tree-intersections.test.js` .

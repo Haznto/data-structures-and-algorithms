@@ -14,7 +14,7 @@ const {
     tree5,
     tree6,
 } = require('../Treesfortesting'); // Adjust the path as needed
-const faretZayton = require('../Tree-insertion'); // Import your faretZayton function
+const faretZayton = require('../tree-intersections'); // Import your faretZayton function
 
 describe('faretZayton function', () => {
     it('should return an array of common elements between two trees', () => {

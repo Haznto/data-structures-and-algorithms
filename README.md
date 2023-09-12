@@ -33,5 +33,6 @@
 |25- Code-challenge 32 Hash-table-Tree-intersections  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-32-tree-intersections/README.md)     |
 |26- Code-challenge 35 Graphs  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-35-graphs/README.md)     |
 |27- Code-challenge 33 Hash-tables-leftjoin  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-33-hashmap-left-join/README.md)     |
+|28- Code-challenge 34 Mock-interview-6  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-34-mock-interview-6/README.md)     |
 
 ___

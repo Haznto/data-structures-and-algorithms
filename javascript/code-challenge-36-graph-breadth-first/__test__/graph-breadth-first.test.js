@@ -13,7 +13,7 @@ const Vertex = require('../Vertex')
 
 
 
-describe('Testing Hash Tables ', () => {
+describe('Testing graphs ', () => {
 
 
     let graph = new Graph()

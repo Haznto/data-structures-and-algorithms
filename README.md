@@ -36,5 +36,6 @@
 |28- Code-challenge 34 Mock-interview-6  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-34-mock-interview-6/README.md)     |
 |29- Code-challenge 36 Graph-breadth-first  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-36-graph-breadth-first/README.md)     |
 |30- Code-challenge 37 Graph-business-trip  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-37-graph-business-trip/README.md)     |
+|31- Code-challenge 38 Graph-depth-first  |      [Visit](https://github.com/Haznto/data-structures-and-algorithms/blob/main/javascript/code-challenge-38-graph-depth-first/README.md)     |
 
 ___
